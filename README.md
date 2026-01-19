@@ -44,3 +44,10 @@ A simple command-line coffee shop ordering system built in C. This program demon
 - Modular programming with functions
 - Input validation and conditional logic
 - Handling user input in a command-line interface
+
+## Contact
+
+Created by **Remoshan**  
+- Email: [remoshanfrancis123@outlook.com](mailto:remoshanfrancis123@outlook.com)  
+- GitHub: [github.com/remoshan](https://github.com/remoshan)  
+- LinkedIn: [linkedin.com/in/francis-remoshan](https://www.linkedin.com/in/francis-remoshan)
