@@ -7,9 +7,7 @@
 
 ### Visuals
 
-<!-- Hero image / screenshot placeholder -->
-
-![Coffee Shop Orders Screenshot – Coming Soon](./docs/assets/hero-placeholder.png)
+![coffee-shop-orders](https://github.com/user-attachments/assets/12dccd2b-0151-4743-ae23-d4c160dabad3)
 
 ---
 
