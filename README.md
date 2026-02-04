@@ -50,7 +50,7 @@ Clone the repository and build the binary.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/coffee-shop-orders.git
+git clone https://github.com/remoshan/coffee-shop-orders.git
 cd coffee-shop-orders
 
 # 2. Build (using gcc as an example)
